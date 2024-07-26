@@ -1,5 +1,7 @@
-## Olá Meu Nome é Bruno Henrique Benkendorf 👋
-
+### Olá eu sou Bruno Henrique Benkendorf 👾
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_benkas/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](brunobenkendorf11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-benkendorf-892836267/)
 <!--
 **BrunoBenkendorf/BrunoBenkendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
