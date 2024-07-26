@@ -1,6 +1,6 @@
 ### Olá eu sou Bruno Henrique Benkendorf 👾
-Um apreço a mais por Back-End 🖥️
-
+Tenho um apreço a mais por Back-End 🖥️
+Amante de Tecnologia 🤖
 
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_benkas/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-benkendorf-892836267/)
