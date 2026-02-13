@@ -1,66 +1,51 @@
-### Olá eu sou Bruno Henrique Benkendorf 👾
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=120&section=header"/>
 
-[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_benkas/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-benkendorf-892836267/)
+<h1 align="center">
+Olá 👋 Eu sou Bruno Henrique Benkendorf
+</h1>
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"       
-/>
+<h3 align="center">
+💻 Técnico em TI | 🚀 Desenvolvedor | 🎓 Eng. de Software
+</h3>
 
-<br/>
-<br/>
+---
+
+### 👨‍💻 Sobre mim
+
+-  21 anos  
+- 📍 Joinville - SC  
+- 🏢 Técnico de Informática no Colégio Bom Jesus / IELUSC  
+
+---
+
+## 🏢 Atualmente
+
+<div align="center">
+  <img src="assets/logo-bonja-connect.png" width="250px"/>
+  <br><br>
+  <b>Técnico de Informática</b><br>
+  Colégio Bom Jesus / IELUSC
+</div>
+
+---
+
+<div align="center"> <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoBenkendorf&show_icons=true&count_private=true&hide_border=true&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627"/> <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoBenkendorf&show_icons=true&locale=en&hide_border=true&layout=compact&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627"/> </div>
 
 
+## 🚀 Main Skills
 
-<!--
-**BrunoBenkendorf/BrunoBenkendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrunoBenkendorf&label=Profile+Views&color=A855F7&style=flat" alt="Profile views">
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=120&section=footer"/>
