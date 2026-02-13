@@ -21,7 +21,7 @@ Olá 👋 Eu sou Bruno Henrique Benkendorf
 ## 🏢 Atualmente
 
 <div align="center">
-  <img src="assets/logo-bonja-connect.png" width="250px"/>
+  <img src="LOGO-CONNECT-AZUL@4x-2-1-1024x562.png" width="250px"/>
   <br><br>
   <b>Técnico de Informática</b><br>
   Colégio Bom Jesus / IELUSC
