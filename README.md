@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=120&section=header"/>
 
 <h1 align="center">
@@ -20,8 +21,8 @@ Olá 👋 Eu sou Bruno Henrique Benkendorf
 
 - 21 anos
 - 📍 Joinville - SC
-- 🏢 Técnico de Informática no [Colégio Bom Jesus / IELUSC](https://www.bomjesus.br/)
-- 🎯 Buscando evoluir para áreas de Cloud e DevOps
+- 🏢 Técnico de Informática no [Colégio Bom Jesus / IELUSC](https://colegiobonja.com.br/)
+- 🎯 Buscando evoluir nas áreas de Infraestrutura e IA
 
 ---
 
@@ -45,7 +46,7 @@ Olá 👋 Eu sou Bruno Henrique Benkendorf
   Manutenção de PCs • Formatação e Limpeza • Montagem de Computadores<br><br>
   <a href="https://wa.me/5547996027914"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="mailto:bhbyte.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://instagram.com/bhbyte_tech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/bhbyte_tech?igsh=dHQ3dXduNDY5aW42&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
 ---
@@ -53,7 +54,7 @@ Olá 👋 Eu sou Bruno Henrique Benkendorf
 ## 🖥️ Infraestrutura & Suporte
 
 <p align="center">
-<img width="40px" title="Microsoft Intune" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftazure/microsoftazure-original.svg"/>
+<img width="40px" title="Mosyle MDM" src="https://cdn.simpleicons.org/apple/000000"/>
 <img width="40px" title="Active Directory / Windows Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 <img width="40px" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
@@ -76,10 +77,10 @@ MDM (gestão de dispositivos) • Active Directory • Suporte a redes • Manut
 
 ---
 
-<div align="center">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoBenkendorf&show_icons=true&count_private=true&hide_border=true&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627" alt="Estatísticas do GitHub de BrunoBenkendorf"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoBenkendorf&show_icons=true&locale=en&hide_border=true&layout=compact&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627" alt="Linguagens mais usadas"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/BrunoBenkendorf?label=Followers&style=for-the-badge&color=1F6FEB&logo=github&logoColor=white" alt="Seguidores no GitHub"/>
+  <a href="https://github.com/BrunoBenkendorf?tab=repositories"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rios-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios"/></a>
+</p>
 
 ---
 
