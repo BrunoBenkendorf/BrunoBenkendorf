@@ -19,7 +19,7 @@ Olá 👋 Eu sou Bruno Henrique Benkendorf
 
 ### 👨‍💻 Sobre mim
 
-- 21 anos
+- 22 anos
 - 📍 Joinville - SC
 - 🏢 Técnico de Informática no [Colégio Bom Jesus / IELUSC](https://colegiobonja.com.br/)
 - 🎯 Buscando evoluir nas áreas de Infraestrutura e IA
