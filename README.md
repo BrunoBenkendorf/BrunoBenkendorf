@@ -37,20 +37,6 @@ Olá 👋 Eu sou Bruno Henrique Benkendorf
 
 ---
 
-## 🔧 Projeto paralelo
-
-<div align="center">
-  <img src="bh-byte-tech-logo-cropped.png" width="220px" alt="Logo BH Byte Tech"/>
-  <br><br>
-  <b>BH Byte Tech</b> — Soluções em Informática<br>
-  Manutenção de PCs • Formatação e Limpeza • Montagem de Computadores<br><br>
-  <a href="https://wa.me/5547996027914"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="mailto:bhbyte.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.instagram.com/bhbyte_tech?igsh=dHQ3dXduNDY5aW42&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</div>
-
----
-
 ## 🖥️ Infraestrutura & Suporte
 
 <p align="center">
